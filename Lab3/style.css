@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #7f7aec;
+}
+
+fieldset{
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+    border: 2px ;
+    border: solid#8b7cf6;
+    border-radius: 10px;
+}
+
+legend{
+    background-color: #8b7cf6;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+table{
+    width: 100%;
+    border-spacing: 20px;
+}
+
+td{
+    width: 50%;
+    font-weight: bold;
+    color: #555;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+#parent{
+    text-align: center;
+    margin-top: 20px;
+}
+
+button{
+    padding: 12px 35px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#child1{
+    background-color: #8b7cf6;
+    color: white;
+    margin-right: 10px;
+}
+
+#child2{
+    background-color: #e5e5e5;
+    color: #333;
+}
